@@ -46,7 +46,7 @@ function(declare, BaseWidget) {
     },
 
     showVertexCount: function(count){
-      this.vertexCount.innerHTML = 'The vertex count is: ' + count;
+      this.vertexCount.innerHTML = this.nls._featureAction_ShowVertex+': ' + count;
     }
   });
 });

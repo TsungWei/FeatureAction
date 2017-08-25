@@ -31,5 +31,6 @@ define({
   "th": 0,
   "tr": 0,
   "vi": 0,
-  "zh-cn": 1
+  "zh-cn": 1,
+  "zh-tw": 1
 });
